@@ -1,0 +1,129 @@
+
+
+*{
+   margin: 0;    /*nunca esquecer disso de novo*/
+   padding: 0;
+   box-sizing: border-box;
+}
+header{                /*baner*/
+   width: 100%;
+   height: 100vh;
+   background-image: url("../img/banner.jpg");
+   background-position: center;
+   background-size: cover;
+} 
+/*background-image: linesr_gradient(45deg graus, xyan, yelo, personalizam o beck graud)*/
+/*top, left, transform:  translate (-50%,-50%)*/
+
+
+label, textarea, input[type="submit"], input[type="text"]{
+   display: inline-block;
+}
+.n2{
+   background-color: rgba(0, 0, 0, 0.8);
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   padding: 80px;
+   border-radius: 15px;
+   color: #fff;
+}
+
+input[type="text"], input[type="password"] {
+   width: 300px;
+   height: 30px;
+   border-radius: 10px;
+   background-color: #696969;
+   outline: none;
+}
+input[type="submit"]{
+   background: #33333333;
+   color: #ffffff;
+   cursor: pointer;
+   border-radius: 10px;
+}
+
+input[type="submit"]:hover{
+   background: deepskyblue;
+   color: #ffffff;
+   cursor: pointer;
+   border-radius: 10px;
+}
+
+
+.principal{
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   height: 200px;
+}
+h1{
+   font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*sistema de grid */
+.linha{
+   width: 960px;
+   margin: 0 auto;
+   overflow: auto;
+   padding: 5px 0;
+}
+.coluna{
+   padding: 0 10px;
+   float: left;
+}
+.col1{
+   width: 60px;
+}
+.col2{
+   width: 140px; /*+80, fecha no 940*/
+}
+.col3{
+   width: 220px; /*+80, fecha no 940*/
+}
+.col4{
+   width: 300px; /*+80, fecha no 940*/
+}
+.col5{
+   width: 380px; /*+80, fecha no 940*/
+}
+.col6{
+   width: 460px; /*+80, fecha no 940*/
+}
+.col7{
+   width: 540px; /*+80, fecha no 940*/
+}
+.col8{
+   width: 620px; /*+80, fecha no 940*/
+}
+.col9{
+   width: 700px; /*+80, fecha no 940*/
+}
+.col10{
+   width: 780px; /*+80, fecha no 940*/
+}
+.col11{
+   width: 860px; /*+80, fecha no 940*/
+}
+.col12{
+   width: 940px; /*+80, fecha no 940*/
+}
+
+ 
+
