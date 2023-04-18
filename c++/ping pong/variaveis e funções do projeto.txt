@@ -1,0 +1,52 @@
+//%%variaveis%%//
+
+
+	 int x_barra1 = 5, y_barra1= 205; //1 jogador possição
+	 int barra1_largura = 20, barra1_altura = 200;
+	 
+	 int x_barra2 = 775, y_barra2= 205; //2 jogador possição
+	 int barra2_largura = 20, barra2_altura = 200;
+	 
+	 int x_bola = 380, y_bola= 300; // bola
+	 int bola_largura = 10, bola_altura = 10;
+	 int bola_velocidade_x = 0, bola_velocidade_y = 0;
+	 int bola_direcao = 0; //direção 0 parado, 1 direita, 2 esquerda//
+	 int puntuacao1 = 0, puntuacao2 = 0;
+
+
+
+
+800 ,600
+
+
+
+if (key[KEY_W]){
+		       if (y_barra2 > 0){
+				   y_barra2 = y_barra2 - 1;
+			   }
+		       
+		   } 
+		   if (key[KEY_S]){
+			   if (y_barra2 + barra2_altura  < 600){
+				   y_barra2 = y_barra2 + 1;
+			   }
+			   
+	       }
+
+
+
+
+
+
+
+
+
+
+controles
+
+
+
+
+
+
+

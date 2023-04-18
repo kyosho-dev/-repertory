@@ -1,0 +1,45 @@
+multilpicar bolas
+
+
+encolher a barra
+
+aumentar barra
+
+
+aumentar velocidade da barra 
+
+aumentar a velocidade da bola, sprite de fogo
+
+
+barraira de defeza
+
+bola curva
+
+projetil que destroi a barra é maraca ponto 
+
+libo que marca ponto na parte de cima é da parte de baixo do jogo é adicina mais 2 barras pra cada
+
+
+
+
+
+
+varanda é varrer de cima
+
+
+
+tretris cai do ceu é faz a bola mudar de direção 
+
+
+
+os oponentes trocam de lados quando a bola chega no meio 
+
+
+a bola pisca é fica invisivel por um tempo.
+
+bolas falsas que não contam como ponto 
+
+barra de spinho que destroi a bola é contabiliza ponto pro adiversario
+
+
+inverter a posição y da bola 

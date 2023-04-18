@@ -1,0 +1,9 @@
+//comando que cria o circulo, circle(posição x, posição y,largura) makecol ( r,g,b) cores
+circlefill(screen, 150, 150, 100, makecol(255, 5, 50));
+
+
+//comando que cria um cubo//
+rectfill(screen, 200, 200 ,100, 100, makecol(255,255,10));
+
+
+//rest() da delei
